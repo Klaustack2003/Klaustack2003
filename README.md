@@ -85,4 +85,3 @@
 
 ---
 
-<sub><center>⚡ Built with passion and powered by [GPRM](https://gprm.itsvg.in) | 🚀 Let's build something amazing together.</center></sub>
